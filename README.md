@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/bemenu](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ns-ian/bemenu-dracula/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/bemenu/graphs/contributors).
 
 [![Ian Wright](https://github.com/ns-ian.png?size=100)](https://github.com/ns-ian) |
 --- |
